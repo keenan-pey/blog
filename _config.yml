@@ -1,20 +1,17 @@
-title:            Balzac
-tagline:          A beautiful theme.
+title:            Contagious Fun
+tagline:          A blog.
 description:      Describe your website.
-canonical: https://keenan-pey.github.io/blog
+canonical: https://keenan-pey.github.io
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Keenan Pey
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            "Postgraduate research student & computational microbiologist"
+  twitter:        KeenanPey
+  github:         keenan-pey
+  instagram:      keenan.pey
+  location:       "Sydney, Australia"
   # Plug in your disqus shortname!
 
 tools:
@@ -23,7 +20,7 @@ tools:
 
 # Open Graph customization
 opengraph:
-  locale:           en_US
+  locale:           en_GB
 
 # Links to include in top navigation
 # For external links add external: true
@@ -38,7 +35,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Australia/Sydney
 future:      true
 highlighter: pygments
 markdown:    kramdown
