@@ -25,9 +25,9 @@ With that in mind, this blog is aimed at an audience that has little or no knowl
 </figure>
 
 
-"There are a few lonely places in this world, and the wastes of the great Alaskan Interior are the loneliest of them all"
+*"There are a few lonely places in this world, and the wastes of the great Alaskan Interior are the loneliest of them all"*
 
-- Gay Salisbury, author of The Cruelest Miles: The Heroic Story of Dogs and Men in a Race Against an Epidemic
+Excerpt from The Cruelest Miles: The Heroic Story of Dogs and Men in a Race Against an Epidemic by Gay Salisbury.
 
 
 Many have heard the story of the famous Balto [\[1\]](https://en.wikipedia.org/wiki/Balto), a Siberian Husky that led a sled team over a thousand kilometres across Alaska in blizzard conditions. As a child growing up in America, I read stories and watched films [\[2\]](https://www.imdb.com/title/tt0112453/) regarding this feat and the later foundation of the Iditarod Race. I, however, didn't appreciate the efforts of both man and canine until I came across the story again two decades later. 
