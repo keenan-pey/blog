@@ -17,20 +17,20 @@ With that in mind, this blog is aimed at an audience that has little or no knowl
 
 -----------
 
-# 
+# A public health primer
 
 <figure>
 	<img src="/images/sledteam.jpg">
-	<figcaption>Gunnar Kaasen and his sled dogs</figcaption>
+	<figcaption>Gunnar Kaasen and his sled dogs. Original source not known.</figcaption>
 </figure>
 
 
-*"There are a few lonely places in this world, and the wastes of the great Alaskan Interior are the loneliest of them all"*
+*"There are a few lonely places in this world, and the wastes of the great Alaskan Interior are the loneliest of them all."*
 
 Excerpt from The Cruelest Miles: The Heroic Story of Dogs and Men in a Race Against an Epidemic by Gay Salisbury.
 
 
-Many have heard the story of the famous Balto [\[1\]](https://en.wikipedia.org/wiki/Balto), a Siberian Husky that led a sled team over a thousand kilometres across Alaska in blizzard conditions. As a child growing up in America, I read stories and watched films [\[2\]](https://www.imdb.com/title/tt0112453/) regarding this feat and the later foundation of the Iditarod Race. I, however, didn't appreciate the efforts of both man and canine until I came across the story again two decades later. 
+Many have heard the story of the famous Balto [\[1\]](https://en.wikipedia.org/wiki/Balto), a Siberian Husky that led a sled team over a thousand kilometres across Alaska in blizzard conditions. As a child growing up in America, I read stories and watched films [\[2\]](https://www.imdb.com/title/tt0112453/) regarding this feat. I, however, didn't appreciate the combined efforts of both man and canine until I came across the story again two decades later. 
 
 For the uninitiated, the 1925 "Great Race of Mercy" was a public health response to a diphtheria epidemic in remote Alaska. The town of Nome was experiencing 
 
